@@ -1,4 +1,4 @@
-package com.example.PokeTFT;
+package com.example.poketft;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
